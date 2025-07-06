@@ -10,7 +10,7 @@
 ## 2. 주요 내용 (Contents)
 | GitHub | blog |
 |--------|------------------------------|
-| ch02: [표와 그림을 통한 자료의 요약](https://github.com/SHINJIHAN/intro-bigdata/blob/main/ch02.py) |  [📓](https://sinjihan71.tistory.com/entry/2%EC%9E%A5-%ED%91%9C%EC%99%80-%EA%B7%B8%EB%A6%BC%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%9E%90%EB%A3%8C%EC%9D%98-%EC%9A%94%EC%95%BD?category=1113769)   |
+| ch02: [표와 그림을 통한 자료의 요약](https://github.com/SHINJIHAN/intro-bigdata/blob/main/ch02.py) | <a href="https://sinjihan71.tistory.com/entry/2%EC%9E%A5-%ED%91%9C%EC%99%80-%EA%B7%B8%EB%A6%BC%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%9E%90%EB%A3%8C%EC%9D%98-%EC%9A%94%EC%95%BD?category=1113769" target="_blank">📓</a> |
 | ch03: [수치를 통한 연속형 자료의 요약](https://github.com/SHINJIHAN/intro-bigdata/blob/main/ch03.py) |  [📓](https://sinjihan71.tistory.com/entry/3%EC%9E%A5-%EC%88%98%EC%B9%98%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%97%B0%EC%86%8D%ED%98%95-%EC%9E%90%EB%A3%8C%EC%9D%98-%EC%9A%94%EC%95%BD?category=1113769)   |
 | ch04: [두 변수 자료의 요약](https://github.com/SHINJIHAN/intro-bigdata/blob/main/ch04.py) | [📓](https://sinjihan71.tistory.com/entry/4%EC%9E%A5-%EB%91%90-%EB%B3%80%EC%88%98-%EC%9E%90%EB%A3%8C%EC%9D%98-%EC%9A%94%EC%95%BD)    |
 | ch07: [이항분포와 그에 관련된 분포들](https://github.com/SHINJIHAN/intro-bigdata/blob/main/ch07.py) |  [📓](https://sinjihan71.tistory.com/entry/7%EC%9E%A5-%EC%9D%B4%ED%95%AD%EB%B6%84%ED%8F%AC%EC%99%80-%EA%B7%B8%EC%97%90-%EA%B4%80%EB%A0%A8%EB%90%9C-%EB%B6%84%ED%8F%AC%EB%93%A4?category=1113769)   |
