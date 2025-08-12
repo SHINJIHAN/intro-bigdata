@@ -2,11 +2,13 @@
 이 저장소는 '[통계학: 파이썬을 이용한 분석 (제2판)](https://search.shopping.naver.com/book/catalog/33085361633?cat_id=50005671&frm=PBOKPRO&query=%ED%86%B5%EA%B3%84%ED%95%99+%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84+%EC%9D%B4%EC%9A%A9%ED%95%9C&NaPm=ct%3Dlx76av6g%7Cci%3Daa932984ee3520e859f97928ac082204804db913%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3Dd501a55a93f22b6cec9a41deb3ca49303055bba0)
 ' 교재를 바탕으로 통계학 개념과 실습 코드를 정리한 자료입니다.
 
+---
 ## 1. 상세 설명 (Description)
 - 교재명: 통계학: 파이썬을 이용한 분석 (제2판)  
 - 저자: 인하대학교 통계학과  
 - 출판: 자유아카데미, 2022년 6월 25일 발행  
 
+---
 ## 2. 주요 내용 (Contents)
 | GitHub | blog |
 |--------|------------------------------|
@@ -23,12 +25,14 @@
 | ch14: [분산분석](https://github.com/SHINJIHAN/intro-bigdata/blob/main/ch14.py) |  [📓](https://sinjihan71.tistory.com/entry/14%EC%9E%A5-%EB%B6%84%EC%82%B0%EB%B6%84%EC%84%9D)   |
 | ch15: [범주형 자료 분석](https://github.com/SHINJIHAN/intro-bigdata/blob/main/ch15.py) | [📓](https://sinjihan71.tistory.com/entry/15%EC%9E%A5)    |
 
+---
 ## 3. 실행 방법 (Installation / How to use)
 - Python 3.7 이상 (권장: 3.10 이상)
 - 개발 도구: VS Code, Jupyter Notebook(추천) 등
 - 한글 그래프 출력을 위해 [NanumGothic 폰트](https://github.com/SHINJIHAN/NanumSquareRound) 설치 필요
 - 필수 라이브러리 설치: `pip install numpy pandas matplotlib scipy statsmodels`
 
+---
 ### 사용 라이브러리별 적용 챕터
 | 라이브러리    | 사용 챕터                                   |
 |--------------|----------------------------------------------|
@@ -38,4 +42,5 @@
 | `scipy`      | ch07, 08, 10, 11, 12, 13, 15                 |
 | `statsmodels`| ch08, 09, 11, 13, 14                         |
 
+---
 > ❗ 오류 및 개선사항은 상단의 **Issues** 탭을 이용해주세요.
